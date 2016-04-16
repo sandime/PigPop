@@ -8,11 +8,7 @@ body {
     margin-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
 
-.navbar-header {
-    background-color: #e4b9c0;
-}
-.navbar-nav {
-    background-color: #e4b9c0;
+.
 }
 .header-image {
     display: block;
@@ -36,6 +32,7 @@ body {
 
 .headline h2 {
     font-size: 77px;
+    font-family: "Times New Roman",Georgia, Serif;
 
 }
 
@@ -57,6 +54,7 @@ body {
 
 .featurette-heading {
     font-size: 50px;
+    font-family: "Times New Roman",Georgia, Serif;
 }
 
 footer {
@@ -66,10 +64,13 @@ footer {
 @media(max-width:1200px) {
     .headline h1 {
         font-size: 140px;
+        font-family: "Times New Roman",Georgia, Serif;
+
     }
 
     .headline h2 {
         font-size: 63px;
+        font-family: "Times New Roman",Georgia, Serif;
     }
 
     .featurette-divider {
@@ -86,16 +87,19 @@ footer {
 
     .featurette-heading {
         font-size: 35px;
+        font-family: "Times New Roman",Georgia, Serif;
     }
 }
 
 @media(max-width:991px) {
     .headline h1 {
         font-size: 105px;
+        font-family: "Times New Roman",Georgia, Serif;
     }
 
     .headline h2 {
         font-size: 50px;
+        font-family: "Times New Roman",Georgia, Serif;
     }
 
     .featurette-divider {
@@ -116,6 +120,7 @@ footer {
 
     .featurette-heading {
         font-size: 30px;
+        font-family: "Times New Roman",Georgia, Serif;
     }
 }
 
