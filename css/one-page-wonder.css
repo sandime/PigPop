@@ -18,24 +18,25 @@ body {
     display: block;
     width: 100%;
     text-align: center;
-    background-image:url(../images/spring-floral.jpg);
+    background-image:url(../images/ocean.jpg);
 
 }
 
 .headline {
     padding: 120px 0;
+    font-family: "Times New Roman",Georgia, Serif;
 }
 
 .headline h1 {
     font-size: 130px;
-    background: #fff;
-    background: rgba(255,255,255,0.9);
+
+
+    font-family: "Times New Roman",Georgia, Serif;
 }
 
 .headline h2 {
     font-size: 77px;
-    background: #fff;
-    background: rgba(255,255,255,0.9);
+
 }
 
 .featurette-divider {
