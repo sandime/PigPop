@@ -8,15 +8,18 @@ body {
     margin-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
 
+.navbar-header {
+    background-color: #e4b9c0;
+}
+.navbar-nav {
+    background-color: #e4b9c0;
+}
 .header-image {
     display: block;
     width: 100%;
     text-align: center;
     background-image:url(../images/spring-floral.jpg);
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+
 }
 
 .headline {
